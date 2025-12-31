@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   Name: nat
   OS: Linux Mint
   Languages: ["Java", "JavaScript", "HTML", "CSS"]
-  Uptime: 23 Years
+  Uptime: 24 Years
   ```
 </div>
 
